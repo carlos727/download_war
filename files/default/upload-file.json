@@ -1,0 +1,6 @@
+{
+  "run_list":[
+    "recipe[smtp_handler]",
+    "recipe[upload_file]"
+  ]
+}
